@@ -1,0 +1,26 @@
+{
+  "name": "SimpleSignUpForm",
+  "version": "0.0.0",
+  "authors": [
+    "Sagar <sag.sahay@gmail.com>"
+  ],
+  "description": "A simple signup form",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
